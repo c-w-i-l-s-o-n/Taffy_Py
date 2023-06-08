@@ -2,8 +2,7 @@
 ##1: Check if file is open before running Taffy and prompt 'do you want to close' or add + _1 to name and allow both to be open
 ##3: Check if file is truly a CV or LSV
 ##4: Create an error log
-##5: Create avg_generator and append the data to graph
-##6 create CV Generator and Combined Avgs Generator
+##5 create CV Generator and Combined Avgs Generator
 
 import xlwings as xw
 #makes the UI less blurry
